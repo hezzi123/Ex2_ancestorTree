@@ -1,0 +1,3 @@
+C:/Users/ariki/CLionProjects/Ex2_ancestorTree/cmake-build-debug/CMakeFiles/Ex2_ancestorTree.dir
+C:/Users/ariki/CLionProjects/Ex2_ancestorTree/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ariki/CLionProjects/Ex2_ancestorTree/cmake-build-debug/CMakeFiles/rebuild_cache.dir
